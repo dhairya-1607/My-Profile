@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 50px;
+}
+
+.profile img {
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid #333;
+    margin-bottom: 20px;
+}
+
+.profile h1 {
+    color: #333;
+    font-size: 2em;
+}
+
+.profile h2 {
+    color: #555;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.profile p {
+    color: #666;
+    font-size: 1em;
+    line-height: 1.6;
+}
